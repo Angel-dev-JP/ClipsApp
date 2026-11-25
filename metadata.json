@@ -1,0 +1,6 @@
+{
+  "name": "Clipper Alofoke a Facebook",
+  "description": "Herramienta local para grabar el live de La Casa de Alofoke 3, detectar momentos, calificarlos, editarlos y publicarlos en Facebook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
